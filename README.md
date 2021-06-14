@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zcmi223
-- 👀 I’m interested in AI & NN
+- 👀 I’m interested in NN
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me zcmi223@uky.edu
